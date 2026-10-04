@@ -64,6 +64,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Canva](https://www.canva.com/create/instagram-posts/) – Design tools specifically for Instagram visuals.
 - [Instagram Creator Studio](https://business.facebook.com/creatorstudio/) – Manage content, monetization, and insights for Instagram accounts.
 
+### DM Automation
+
+- [RelayDM](https://relaydm.app) – Instagram DM automation that sends a DM when followers comment a chosen keyword.
+
 ## Third-Party Tools
 
 - [Zapier Instagram Integrations](https://zapier.com/apps/instagram/integrations) – Automate workflows with Instagram.
