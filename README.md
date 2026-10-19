@@ -68,6 +68,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Zapier Instagram Integrations](https://zapier.com/apps/instagram/integrations) – Automate workflows with Instagram.
 - [Combin](https://www.combin.com/) – Instagram growth and engagement software.
+- [iStoryTracker](https://istorytracker.com/) – Anonymous Instagram Story viewer for public accounts; optional paid Story tracking and archive.
 - [Preview App](https://thepreviewapp.com/) – Plan and design Instagram feed layouts.
 
 ## Communities & Forums
