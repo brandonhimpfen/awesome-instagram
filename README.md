@@ -66,8 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Third-Party Tools
 
-- [Zapier Instagram Integrations](https://zapier.com/apps/instagram/integrations) – Automate workflows with Instagram.
-- [Combin](https://www.combin.com/) – Instagram growth and engagement software.
+- [Zapier Instagram Integrations](https://zapier.com/apps/instagram-for-business/integrations) – Automate workflows with Instagram.
 - [Preview App](https://thepreviewapp.com/) – Plan and design Instagram feed layouts.
 
 ## Communities & Forums
