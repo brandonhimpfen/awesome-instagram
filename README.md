@@ -54,6 +54,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Instagram Insights](https://business.instagram.com/insights) – Official analytics for business accounts.
 - [Social Blade: Instagram](https://socialblade.com/instagram/) – Public account stats and analytics.
 - [HypeAuditor](https://hypeauditor.com/) – Influencer analytics and audience verification.
+- [IGDataHub](https://igdatahub.com/compare/) – Free side-by-side follower and engagement stats for 2,800+ tracked public accounts.
 - [Phlanx Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) – Check account engagement rates.
 
 ## Marketing & Growth
@@ -66,8 +67,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Third-Party Tools
 
-- [Zapier Instagram Integrations](https://zapier.com/apps/instagram/integrations) – Automate workflows with Instagram.
-- [Combin](https://www.combin.com/) – Instagram growth and engagement software.
+- [Zapier Instagram Integrations](https://zapier.com/apps/instagram-for-business/integrations) – Automate workflows with Instagram.
 - [Preview App](https://thepreviewapp.com/) – Plan and design Instagram feed layouts.
 
 ## Communities & Forums
